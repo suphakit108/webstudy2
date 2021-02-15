@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "editor.formatOnSave": true;
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  }
+}
